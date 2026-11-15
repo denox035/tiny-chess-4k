@@ -1,0 +1,12 @@
+# Submission files only. Everything else stays out of the repo snapshot.
+chess-src.py
+test/
+tiny-chess-01-kit/
+kit.tar.gz
+kit.zip
+requirements.json
+COORDINATOR.md
+SUBMIT_CHECKLIST.md
+dl.out
+grade_starter.log
+__pycache__/
